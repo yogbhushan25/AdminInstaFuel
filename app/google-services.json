@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "41633106943",
+    "firebase_url": "https://instafuel-3c6c5.firebaseio.com",
+    "project_id": "instafuel-3c6c5",
+    "storage_bucket": "instafuel-3c6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41633106943:android:54548741c94e6c351235ca",
+        "android_client_info": {
+          "package_name": "com.rppburhanpur.admininstafuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41633106943-sdrca2gt2h3pct65kdq6tapfbgdt8isg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rppburhanpur.admininstafuel",
+            "certificate_hash": "4e347e6c973a8c8e35500615e84adbbc69b40e4e"
+          }
+        },
+        {
+          "client_id": "41633106943-gu3sfgnem63cg98746dcav9qmgg7p5br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaKv4E1I1mR4ayWjncNxEbRF5OkrPfZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41633106943-gu3sfgnem63cg98746dcav9qmgg7p5br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41633106943:android:d7fc8f740b4d5d6a1235ca",
+        "android_client_info": {
+          "package_name": "com.rppburhanpur.instafuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41633106943-9ljdhrphvooo5ttd29s1qb3v39366edg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rppburhanpur.instafuel",
+            "certificate_hash": "36c7ba09253afd5b529cf8a12cb66084d1d68483"
+          }
+        },
+        {
+          "client_id": "41633106943-qa2p7m4mg73jfs09f7me9js1pa3dr1u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rppburhanpur.instafuel",
+            "certificate_hash": "4e347e6c973a8c8e35500615e84adbbc69b40e4e"
+          }
+        },
+        {
+          "client_id": "41633106943-gu3sfgnem63cg98746dcav9qmgg7p5br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaKv4E1I1mR4ayWjncNxEbRF5OkrPfZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41633106943-gu3sfgnem63cg98746dcav9qmgg7p5br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
